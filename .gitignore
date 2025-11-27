@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+
+# Credenciais e Variáveis de Ambiente (CRÍTICO PARA SEGURANÇA)
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Logs de pedidos
+pedidos.csv
+
+# Arquivos temporários do editor
+# Se você usa VS Code
+.vscode/
